@@ -1,0 +1,5 @@
+# Local overrides
+config_private.php
+
+# Database schema
+Real-time_db.sql
